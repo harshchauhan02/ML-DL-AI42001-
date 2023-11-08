@@ -1,6 +1,7 @@
-Welcome to the MLFA AI42001 Projects Repository! This GitHub repository contains a collection of projects completed as part of the MLFA AI42001 course. These projects showcase various machine learning techniques and algorithms implemented in Python.
+Welcome to my MLFA AI42001 Projects Repository! This repository contains a collection of projects completed as part of the MLFA AI42001 course at IIT Kharagpur. These projects showcase various machine learning techniques and algorithms implemented in Python.
 
 Project List:
+
 -Geospatial Data Classification: Utilized PCA and NN classifier to achieve high accuracy in geospatial classification of sea
  surface temperature data.
 
